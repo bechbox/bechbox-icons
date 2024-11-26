@@ -1,0 +1,15 @@
+/* AUTO CONVERTED FILE */
+import React, { forwardRef } from "react";
+import type { Icon } from "../lib/types";
+import IconBase from "../lib/IconBase";
+import weights from "../defs/Globe";
+
+/**
+ * @regular ![img](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xMjgsMjRBMTA0LDEwNCwwLDEsMCwyMzIsMTI4LDEwNC4xMSwxMDQuMTEsMCwwLDAsMTI4LDI0Wk0xMDEuNjMsMTY4aDUyLjc0QzE0OSwxODYuMzQsMTQwLDIwMi44NywxMjgsMjE1Ljg5LDExNiwyMDIuODcsMTA3LDE4Ni4zNCwxMDEuNjMsMTY4Wk05OCwxNTJhMTQ1LjcyLDE0NS43MiwwLDAsMSwwLTQ4aDYwYTE0NS43MiwxNDUuNzIsMCwwLDEsMCw0OFpNNDAsMTI4YTg3LjYxLDg3LjYxLDAsMCwxLDMuMzMtMjRIODEuNzlhMTYxLjc5LDE2MS43OSwwLDAsMCwwLDQ4SDQzLjMzQTg3LjYxLDg3LjYxLDAsMCwxLDQwLDEyOFpNMTU0LjM3LDg4SDEwMS42M0MxMDcsNjkuNjYsMTE2LDUzLjEzLDEyOCw0MC4xMSwxNDAsNTMuMTMsMTQ5LDY5LjY2LDE1NC4zNyw4OFptMTkuODQsMTZoMzguNDZhODguMTUsODguMTUsMCwwLDEsMCw0OEgxNzQuMjFhMTYxLjc5LDE2MS43OSwwLDAsMCwwLTQ4Wm0zMi4xNi0xNkgxNzAuOTRhMTQyLjM5LDE0Mi4zOSwwLDAsMC0yMC4yNi00NUE4OC4zNyw4OC4zNywwLDAsMSwyMDYuMzcsODhaTTEwNS4zMiw0M0ExNDIuMzksMTQyLjM5LDAsMCwwLDg1LjA2LDg4SDQ5LjYzQTg4LjM3LDg4LjM3LDAsMCwxLDEwNS4zMiw0M1pNNDkuNjMsMTY4SDg1LjA2YTE0Mi4zOSwxNDIuMzksMCwwLDAsMjAuMjYsNDVBODguMzcsODguMzcsMCwwLDEsNDkuNjMsMTY4Wm0xMDEuMDUsNDVhMTQyLjM5LDE0Mi4zOSwwLDAsMCwyMC4yNi00NWgzNS40M0E4OC4zNyw4OC4zNywwLDAsMSwxNTAuNjgsMjEzWiIvPjwvc3ZnPg==)
+ */
+const I: Icon = forwardRef((props, ref) => (
+  <IconBase ref={ref} {...props} weights={weights} />
+));
+
+I.displayName = "Globe";
+export { I as Globe };
