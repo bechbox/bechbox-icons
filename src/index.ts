@@ -25,7 +25,6 @@ export * from "./csr/Gear";
 export * from "./csr/House";
 export * from "./csr/Image";
 export * from "./csr/Info";
-export * from "./csr/InfoTest";
 export * from "./csr/Lifebuoy";
 export * from "./csr/Link";
 export * from "./csr/LinkSimple";
