@@ -23,6 +23,7 @@ export * from "./Gear";
 export * from "./House";
 export * from "./Image";
 export * from "./Info";
+export * from "./InfoTest";
 export * from "./Lifebuoy";
 export * from "./Link";
 export * from "./LinkSimple";
