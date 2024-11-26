@@ -1,0 +1,18 @@
+In this folder (not a subfolder), create an Icon package with Vite React Typescript.
+
+The icons should be in SVG format.
+
+Make sure the icon package supports tree shaking, so that only the icons that are used in the project are bundled.
+
+The icons will be used in a project like this:
+
+import { House, MagnifyingGlass, User } from "emento-icons";
+
+export default function App() {
+  return (
+    <House size={size} color={color} alt={alt} weight={weight} />
+    <MagnifyingGlass size={size} color={color} />
+    <House size={size}/>
+    <User/>
+  )
+}
