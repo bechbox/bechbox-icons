@@ -64,7 +64,6 @@ export * from "./List";
 export * from "./ListCancel";
 export * from "./ListDone";
 export * from "./LockKeyOpen";
-export * from "./Logo";
 export * from "./MagicWand";
 export * from "./MagnifyingGlass";
 export * from "./MapPin";

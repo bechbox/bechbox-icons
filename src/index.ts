@@ -66,7 +66,6 @@ export * from "./csr/List";
 export * from "./csr/ListCancel";
 export * from "./csr/ListDone";
 export * from "./csr/LockKeyOpen";
-export * from "./csr/Logo";
 export * from "./csr/MagicWand";
 export * from "./csr/MagnifyingGlass";
 export * from "./csr/MapPin";
