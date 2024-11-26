@@ -1,0 +1,15 @@
+/* AUTO CONVERTED FILE */
+import React, { forwardRef } from "react";
+import type { Icon } from "../lib/types";
+import IconBase from "../lib/IconBase";
+import weights from "../defs/FaceMask";
+
+/**
+ * @regular ![img](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJjdXJyZW50Q29sb3IiPjxwYXRoIGQ9Ik0xNzYsMTA0YTgsOCwwLDAsMS04LDhIODhhOCw4LDAsMCwxLDAtMTZoODBBOCw4LDAsMCwxLDE3NiwxMDRabS04LDI0SDg4YTgsOCwwLDAsMCwwLDE2aDgwYTgsOCwwLDAsMCwwLTE2Wm04OC0yNHYyNGEzMiwzMiwwLDAsMS0zMiwzMmgtNS4xM2MtNi41NCwxNC40NC0xOS4yNiwyNy4xMi0zNy43LDM3LjM2LTIxLDExLjY4LTQzLjUyLDE3LTQ5LjkyLDE4LjNhMTUuNywxNS43LDAsMCwxLTYuNSwwYy02LjQtMS4zNC0yOC45LTYuNjItNDkuOTItMTguM0M1Ni4zOSwxODcuMTIsNDMuNjcsMTc0LjQ0LDM3LjEzLDE2MEgzMkEzMiwzMiwwLDAsMSwwLDEyOFYxMDRBMzIsMzIsMCwwLDEsMzIsNzJoLjg1YTE2LDE2LDAsMCwxLDkuNjgtMTBsODAtMjkuMDlhMTYuMDYsMTYuMDYsMCwwLDEsMTAuOTQsMGw4MCwyOS4wOWExNiwxNiwwLDAsMSw5LjY4LDEwSDIyNEEzMiwzMiwwLDAsMSwyNTYsMTA0Wk0zMi41MywxNDRhNTkuOTQsNTkuOTQsMCwwLDEtLjUzLTcuODVWODhhMTYsMTYsMCwwLDAtMTYsMTZ2MjRhMTYsMTYsMCwwLDAsMTYsMTZaTTIwOCwxMzYuMTVWNzcuMDlMMTI4LDQ4LDQ4LDc3LjA5djU5LjA2YzAsNDUuNzYsNzEuODQsNjIuMTMsODAsNjMuODVDMTM2LjE2LDE5OC4yOCwyMDgsMTgxLjkxLDIwOCwxMzYuMTVaTTI0MCwxMDRhMTYsMTYsMCwwLDAtMTYtMTZ2NDguMTVhNTkuOTQsNTkuOTQsMCwwLDEtLjUzLDcuODVIMjI0YTE2LDE2LDAsMCwwLDE2LTE2WiIvPjwvc3ZnPg==)
+ */
+const I: Icon = forwardRef((props, ref) => (
+  <IconBase ref={ref} {...props} weights={weights} />
+));
+
+I.displayName = "FaceMask";
+export { I as FaceMask };

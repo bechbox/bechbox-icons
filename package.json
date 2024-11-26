@@ -1,6 +1,7 @@
 {
-  "name": "emento-icons",
+  "name": "bechbox-icons",
   "private": false,
+  "description": "A collection of icons",
   "version": "1.0.0",
   "type": "module",
   "module": "./dist/index.mjs",

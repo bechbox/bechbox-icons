@@ -27,7 +27,7 @@ export default defineConfig({
         },
         {
           format: "umd",
-          name: "EmentoIconsReact",
+          name: "IconsReact",
           globals: {
             react: "React",
             "react-dom": "ReactDOM",
